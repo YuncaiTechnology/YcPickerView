@@ -20,7 +20,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.YuncaiTechnology.YcPickerView:pickerview:1.0.1'
+	         implementation 'com.github.yuncaitechnology:YcPickerView:1.0.2'
 	}
 Share this release:
 
