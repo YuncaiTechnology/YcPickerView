@@ -1,0 +1,11 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        jcenter()
+    }
+}
+rootProject.name = "YcPickerView"
+include ':app'
+include ':wheelview'
+include ':pickerview'
